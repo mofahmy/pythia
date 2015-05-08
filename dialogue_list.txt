@@ -1,0 +1,14 @@
+./dialogues/late/statesman.txt
+./dialogues/late/sophist.txt
+./dialogues/late/timaeus.txt
+./dialogues/late/philbeus.txt
+./dialogues/middle/cratylus.txt
+./dialogues/middle/phaedrus.txt
+./dialogues/middle/protagoras.txt
+./dialogues/middle/theatetus.txt
+./dialogues/middle/meno.txt
+./dialogues/middle/gorgias.txt
+./dialogues/middle/phaedo.txt
+./dialogues/early/euthyphro.txt
+./dialogues/early/laches.txt
+./dialogues/early/ion.txt
