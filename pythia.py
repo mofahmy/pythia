@@ -81,9 +81,9 @@ def generate_wisdom(dictionary, depth, max_length):
     return wisdom
 
 if __name__ == '__main__':
-    script, infile, outfile, depth = argv
+    script, infile, outfile, depth, max_length = argv
     depth = int(depth)
-    max_length = 50
+    max_length = int(max_length)
     
     dialogues = read_file(infile).split("\n")
     dialogues = [item for item in dialogues if item]
